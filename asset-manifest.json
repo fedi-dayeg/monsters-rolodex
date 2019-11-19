@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "https//fedi-dayeg.github.io/monsters-rolodex/static/css/main.ab9767c7.chunk.css",
-    "main.js": "https//fedi-dayeg.github.io/monsters-rolodex/static/js/main.22323ad3.chunk.js",
-    "main.js.map": "https//fedi-dayeg.github.io/monsters-rolodex/static/js/main.22323ad3.chunk.js.map",
-    "runtime-main.js": "https//fedi-dayeg.github.io/monsters-rolodex/static/js/runtime-main.a4f98e90.js",
-    "runtime-main.js.map": "https//fedi-dayeg.github.io/monsters-rolodex/static/js/runtime-main.a4f98e90.js.map",
-    "static/js/2.f833121f.chunk.js": "https//fedi-dayeg.github.io/monsters-rolodex/static/js/2.f833121f.chunk.js",
-    "static/js/2.f833121f.chunk.js.map": "https//fedi-dayeg.github.io/monsters-rolodex/static/js/2.f833121f.chunk.js.map",
-    "index.html": "https//fedi-dayeg.github.io/monsters-rolodex/index.html",
-    "precache-manifest.9e96c3d5b6fa6d8a87925aaee9f50258.js": "https//fedi-dayeg.github.io/monsters-rolodex/precache-manifest.9e96c3d5b6fa6d8a87925aaee9f50258.js",
-    "service-worker.js": "https//fedi-dayeg.github.io/monsters-rolodex/service-worker.js",
-    "static/css/main.ab9767c7.chunk.css.map": "https//fedi-dayeg.github.io/monsters-rolodex/static/css/main.ab9767c7.chunk.css.map"
+    "main.css": "/monsters-rolodex/static/css/main.ab9767c7.chunk.css",
+    "main.js": "/monsters-rolodex/static/js/main.f819e4dd.chunk.js",
+    "main.js.map": "/monsters-rolodex/static/js/main.f819e4dd.chunk.js.map",
+    "runtime-main.js": "/monsters-rolodex/static/js/runtime-main.b05ca383.js",
+    "runtime-main.js.map": "/monsters-rolodex/static/js/runtime-main.b05ca383.js.map",
+    "static/js/2.f833121f.chunk.js": "/monsters-rolodex/static/js/2.f833121f.chunk.js",
+    "static/js/2.f833121f.chunk.js.map": "/monsters-rolodex/static/js/2.f833121f.chunk.js.map",
+    "index.html": "/monsters-rolodex/index.html",
+    "precache-manifest.8b5eb9a7c854a12132de78db0c50dd3a.js": "/monsters-rolodex/precache-manifest.8b5eb9a7c854a12132de78db0c50dd3a.js",
+    "service-worker.js": "/monsters-rolodex/service-worker.js",
+    "static/css/main.ab9767c7.chunk.css.map": "/monsters-rolodex/static/css/main.ab9767c7.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.a4f98e90.js",
+    "static/js/runtime-main.b05ca383.js",
     "static/js/2.f833121f.chunk.js",
     "static/css/main.ab9767c7.chunk.css",
-    "static/js/main.22323ad3.chunk.js"
+    "static/js/main.f819e4dd.chunk.js"
   ]
 }
